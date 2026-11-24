@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I am Shrashti Walvan!
 
-<!--
-**walyanshrasti-coder/walyanshrasti-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+| Category | Technologies |
+|------------|-----------------------------------------------------|
+| Languages | Python (Beginner), Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
+
+## Featured Projects
+
+- [CSE103 Lab — LAB 3](https://github.com/walyanshrasti-coder/cse103-lab-LAB3)  
+  Git workflows, API interaction, and Markdown documentation
+
+## Currently Working On
+
+- Semester 1 lab projects and building daily problem-solving habits
+
+## Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/mahi-walyan-284b75451/
+- Email: 2601010213@krmu.edu.in
